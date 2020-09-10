@@ -1,0 +1,10 @@
+D:\Fax\Master-Razvoj Softera\prvi semestar\TPJ\2kol\skocko\skocko\bin\Debug\skocko.exe.config
+D:\Fax\Master-Razvoj Softera\prvi semestar\TPJ\2kol\skocko\skocko\bin\Debug\skocko.exe
+D:\Fax\Master-Razvoj Softera\prvi semestar\TPJ\2kol\skocko\skocko\bin\Debug\skocko.pdb
+D:\Fax\Master-Razvoj Softera\prvi semestar\TPJ\2kol\skocko\skocko\obj\Debug\skocko.csprojAssemblyReference.cache
+D:\Fax\Master-Razvoj Softera\prvi semestar\TPJ\2kol\skocko\skocko\obj\Debug\skocko.Form1.resources
+D:\Fax\Master-Razvoj Softera\prvi semestar\TPJ\2kol\skocko\skocko\obj\Debug\skocko.Properties.Resources.resources
+D:\Fax\Master-Razvoj Softera\prvi semestar\TPJ\2kol\skocko\skocko\obj\Debug\skocko.csproj.GenerateResource.cache
+D:\Fax\Master-Razvoj Softera\prvi semestar\TPJ\2kol\skocko\skocko\obj\Debug\skocko.csproj.CoreCompileInputs.cache
+D:\Fax\Master-Razvoj Softera\prvi semestar\TPJ\2kol\skocko\skocko\obj\Debug\skocko.exe
+D:\Fax\Master-Razvoj Softera\prvi semestar\TPJ\2kol\skocko\skocko\obj\Debug\skocko.pdb
